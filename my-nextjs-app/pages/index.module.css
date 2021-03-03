@@ -1,0 +1,13 @@
+.heroImage {
+    margin-top: 30px;
+    z-index: -100;
+}
+
+.Wrapper {
+    width: 70%;
+    margin: 50px auto;
+}
+
+.BlogList {
+    list-style-type: none;
+}
